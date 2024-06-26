@@ -1,0 +1,684 @@
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe.config
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.pdb
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Properties.Resources.resources
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.GenerateResource.cache
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.CoreCompileInputs.cache
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.exe
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.pdb
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Authorization.resources
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Record.resources
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.CalcSums.resources
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Raspisanie.resources
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.dll
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.dll
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.dll
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.dll
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\ZstdSharp.dll
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.xml
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.xml
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.xml
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.xml
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.CopyComplete
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.AssemblyReference.cache
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe.config
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.pdb
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\ZstdSharp.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.AssemblyReference.cache
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.CalcSums.resources
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Authorization.resources
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Properties.Resources.resources
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Raspisanie.resources
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Record.resources
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.GenerateResource.cache
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.CopyComplete
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.exe
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.pdb
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe.config
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.pdb
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.dll
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.dll
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.dll
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.dll
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\ZstdSharp.dll
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.xml
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.xml
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.xml
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.xml
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.AssemblyReference.cache
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.CalcSums.resources
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Authorization.resources
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Properties.Resources.resources
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Raspisanie.resources
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Record.resources
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.GenerateResource.cache
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.CoreCompileInputs.cache
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfa.B807989F.Up2Date
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.exe
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.pdb
+C:\Users\verklieva_oa\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.MaterialCosts.resources
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.MaterialCosts.resources
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe.config
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.pdb
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\ZstdSharp.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.AssemblyReference.cache
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.CalcSums.resources
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Authorization.resources
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.MaterialCosts.resources
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Properties.Resources.resources
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Raspisanie.resources
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Record.resources
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.GenerateResource.cache
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.CoreCompileInputs.cache
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfa.B807989F.Up2Date
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.exe
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.pdb
+C:\Users\79527\OneDrive\Документы\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.MaterialCosts.resources
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe.config
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.pdb
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.dll
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.dll
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.dll
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.dll
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.dll
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.dll
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.dll
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.dll
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.dll
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.dll
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\ZstdSharp.dll
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.xml
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.pdb
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.xml
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.xml
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.xml
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.xml
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.xml
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.xml
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.xml
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.xml
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.xml
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.AssemblyReference.cache
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.CalcSums.resources
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Authorization.resources
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.MaterialCosts.resources
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Properties.Resources.resources
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Raspisanie.resources
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Record.resources
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.GenerateResource.cache
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.CoreCompileInputs.cache
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfa.B807989F.Up2Date
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.exe
+D:\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.pdb
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.AssemblyReference.cache
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.exe
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.pdb
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe.config
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.pdb
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.dll
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.dll
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.dll
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.dll
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\ZstdSharp.dll
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.xml
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.xml
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.xml
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.xml
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.CalcSums.resources
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Authorization.resources
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.MaterialCosts.resources
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Properties.Resources.resources
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Raspisanie.resources
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Record.resources
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.GenerateResource.cache
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.CoreCompileInputs.cache
+C:\Users\79527\OneDrive\Рабочий стол\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.CopyComplete
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe.config
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.pdb
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\ZstdSharp.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.CalcSums.resources
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Authorization.resources
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.MaterialCosts.resources
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Properties.Resources.resources
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Raspisanie.resources
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Record.resources
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.GenerateResource.cache
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfa.B807989F.Up2Date
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.exe
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.pdb
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe.config
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.pdb
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\ZstdSharp.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.AssemblyReference.cache
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.CalcSums.resources
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Authorization.resources
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.MaterialCosts.resources
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Properties.Resources.resources
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Raspisanie.resources
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Record.resources
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.GenerateResource.cache
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.CoreCompileInputs.cache
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfa.B807989F.Up2Date
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.exe
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.pdb
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.AddDataVisit.resources
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe.config
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.pdb
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\ZstdSharp.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.AssemblyReference.cache
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.AddDataVisit.resources
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.CalcSums.resources
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Authorization.resources
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.MaterialCosts.resources
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Properties.Resources.resources
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Raspisanie.resources
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Record.resources
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.GenerateResource.cache
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfa.B807989F.Up2Date
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.exe
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.pdb
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe.config
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.pdb
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\ZstdSharp.dll
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.AssemblyReference.cache
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.AddDataVisit.resources
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.CalcSums.resources
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Authorization.resources
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.MaterialCosts.resources
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Properties.Resources.resources
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Raspisanie.resources
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Record.resources
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.GenerateResource.cache
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.CoreCompileInputs.cache
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfa.B807989F.Up2Date
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.exe
+C:\Users\verklieva_oa\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.pdb
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe.config
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.pdb
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.dll
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.dll
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.dll
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.dll
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.dll
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.dll
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.dll
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.dll
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.dll
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.dll
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\ZstdSharp.dll
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.xml
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.pdb
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.xml
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.xml
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.xml
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.xml
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.xml
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.xml
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.xml
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.xml
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.xml
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.AssemblyReference.cache
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.AddDataVisit.resources
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.CalcSums.resources
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Authorization.resources
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.MaterialCosts.resources
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Properties.Resources.resources
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Raspisanie.resources
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Record.resources
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.GenerateResource.cache
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.CoreCompileInputs.cache
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfa.B807989F.Up2Date
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.exe
+D:\ДИПЛОМ\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.pdb
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe.config
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.pdb
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\ZstdSharp.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.AddDataVisit.resources
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.CalcSums.resources
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Authorization.resources
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.MaterialCosts.resources
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Properties.Resources.resources
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Raspisanie.resources
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Record.resources
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.GenerateResource.cache
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.exe
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.pdb
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Dapper.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Dapper.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.CopyComplete
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe.config
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.pdb
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Dapper.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\ZstdSharp.dll
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Dapper.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.AddDataVisit.resources
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.CalcSums.resources
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Authorization.resources
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.MaterialCosts.resources
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Properties.Resources.resources
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Raspisanie.resources
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Record.resources
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.GenerateResource.cache
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfa.B807989F.Up2Date
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.exe
+C:\Users\user\Desktop\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.pdb
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe.config
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.exe
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\DiaryOfaNailMaster.pdb
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Dapper.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\ZstdSharp.dll
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Dapper.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.pdb
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\MySql.Data.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Buffers.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.IO.Pipelines.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Memory.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.AssemblyReference.cache
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.AddDataVisit.resources
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.CalcSums.resources
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Authorization.resources
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.MaterialCosts.resources
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Properties.Resources.resources
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Raspisanie.resources
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.Record.resources
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.GenerateResource.cache
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfa.B807989F.Up2Date
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.exe
+C:\Users\user\Documents\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\diplom DiaryOfaNailMaster\DiaryOfaNailMaster\obj\Debug\DiaryOfaNailMaster.pdb
